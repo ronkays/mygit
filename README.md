@@ -1,2 +1,2 @@
-# ronkays-github-io
+# MyGit
 Read Me Documentation
